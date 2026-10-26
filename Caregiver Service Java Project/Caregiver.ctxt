@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Oct 18 21:34:10 SGT 2026
+comment0.target=Caregiver
+comment0.text=\r\n Write a description of class Caregiver here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=name gender ethnicity languages servicesProvided hourlyRate
+comment1.target=Caregiver(java.lang.String, java.lang.String, java.lang.String, java.util.List, java.util.List, double)
+comment2.target=java.lang.String getName()
+comment3.target=java.lang.String getGender()
+comment4.target=java.lang.String getEthnicity()
+comment5.target=java.util.List getLanguages()
+comment6.target=java.util.List getServicesProvided()
+comment7.target=double getHourlyRate()
+comment8.target=java.lang.String getDescription()
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Oct 16 17:16:24 SGT 2026
+comment0.target=SpecialistCaregiver
+comment0.text=\r\n Write a description of class SpecialistCaregiver here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=name gender ethnicity languages servicesProvided hourlyRate specialisation
+comment1.target=SpecialistCaregiver(java.lang.String, java.lang.String, java.lang.String, java.util.List, java.util.List, double, java.lang.String)
+comment2.target=java.lang.String getSpecialisation()
+comment3.target=java.lang.String getDescription()
+numComments=4
