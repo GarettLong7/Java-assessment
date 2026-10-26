@@ -1,3 +1,3 @@
 # Java-assessment
-Caregiver Booking Service
-Uses bluejay
+Caregiver Booking Service 
+/p uses bluejay
